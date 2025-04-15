@@ -9,7 +9,6 @@ Acest proiect Arduino permite citirea unui senzor analog (ex: MQ-7 pentru monoxi
 - ESP8266 NodeMCU
 - Senzor analog (ex: gaz, lumină etc.)
 - 2x LED-uri (verde și roșu)
-- Rezistențe de 220Ω
 - Conexiune WiFi 2.4GHz
 - Cont Blynk IoT
 
@@ -21,7 +20,6 @@ Acest proiect Arduino permite citirea unui senzor analog (ex: MQ-7 pentru monoxi
 - Trimite această valoare în aplicația Blynk (`V0`)
 - Aprinde LED-ul roșu dacă valoarea depășește pragul de **300**
 - Aprinde LED-ul verde dacă valoarea este sub acest prag
-- (Opțional) Poți adăuga notificări Blynk dacă valoarea este periculoasă
 
 ---
 
