@@ -7,7 +7,7 @@ Acest proiect Arduino permite citirea unui senzor analog (ex: MQ-7 pentru monoxi
 ## 🔧 Componente necesare
 
 - ESP8266 NodeMCU
-- Senzor analog (ex: gaz, lumină etc.)
+- Senzor analog (ex: gaz, CO)
 - 2x LED-uri (verde și roșu)
 - Conexiune WiFi 2.4GHz
 - Cont Blynk IoT
